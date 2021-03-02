@@ -1,0 +1,6 @@
+AddDefaultCharset utf-8
+
+<Files email.cnf>
+   Order Deny,Allow
+   Deny from all
+</Files>
